@@ -1,46 +1,41 @@
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?encryption=none&type=tcp&headerType=http&host=zula.ir&security=none#%E2%AD%95%EF%B8%8F%20%D9%84%D8%B7%D9%81%D8%A7%20%D9%87%D8%B1%D8%B1%D9%88%D8%B2%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF%20%E2%AD%95%EF%B8%8F
+
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?encryption=none&type=tcp&headerType=http&host=zula.ir&security=none#%F0%9F%94%B9%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%20%D9%88%D8%A7%D8%B1%D8%AF%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B4%D9%88%DB%8C%D8%AF%20%F0%9F%94%B9
 
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?encryption=none&type=tcp&headerType=http&host=zula.ir&security=none#%F0%9F%94%B9%20%F0%9F%9F%A3%20Version:.%2007/21%20%F0%9F%9F%A3%20%F0%9F%94%B9
 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
 
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&fp=chrome&sni=www.ignitelimit.com&alpn=h3,h2,http/1.1#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
 
-vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@1.tls.fastly.veraspeed.ir:443?encryption=none&type=ws&host=pan1.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&sni=ssl.fastly.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%9F%A2%20@TigerVpnChannel%20
 
-vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@1.tls.fastly.veraspeed.ir:443?encryption=none&type=ws&host=pan1.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&sni=ssl.fastly.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel%20%20
 
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@no.cache-4d8a.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=no.cache-4d8a.com&pbk=7wLv5M4GZGhqMAGVj9zdHyW-RrSRdrYAu1Aaqa8N1nY&sid=9d84de9d9f7b85e9#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&fp=chrome&sni=www.ignitelimit.com&alpn=h3,h2,http/1.1#%F0%9F%87%AB%F0%9F%87%B7%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpn%20%20
 
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=shegeftihaaa.net&path=/rsedgws&security=tls&fp=firefox&sni=shegeftihaaa.net#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@no.cache-4d8a.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=no.cache-4d8a.com&pbk=7wLv5M4GZGhqMAGVj9zdHyW-RrSRdrYAu1Aaqa8N1nY&sid=9d84de9d9f7b85e9#%F0%9F%87%B3%F0%9F%87%B4%20%F0%9F%94%B5%20@Tiger.Vpn%20
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=shegeftihaaa.net&path=/rsedgws&security=tls&fp=firefox&sni=shegeftihaaa.net#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%9F%A2%20@TigerVpnChannel%20
 
-vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@1.tls.fastly.veraspeed.ir:443?encryption=none&type=ws&host=pan1.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&sni=ssl.fastly.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel%20
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpn%20%20
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080?type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=shegeftihaaa.net&path=/rsedgws&security=tls&fp=firefox&sni=shegeftihaaa.net#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%94%B5%20@Tiger.Vpn%20
 
-vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@1.tls.fastly.veraspeed.ir:443?encryption=none&type=ws&host=pan1.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&sni=ssl.fastly.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%9F%A2%20@TigerVpnChannel%20
 
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=shegeftihaaa.net&path=/rsedgws&security=tls&fp=firefox&sni=shegeftihaaa.net#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel%20
 
-vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@1.tls.fastly.veraspeed.ir:443?encryption=none&type=ws&host=pan1.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&sni=ssl.fastly.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpn%20%20
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@no.cache-4d8a.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=no.cache-4d8a.com&pbk=7wLv5M4GZGhqMAGVj9zdHyW-RrSRdrYAu1Aaqa8N1nY&sid=9d84de9d9f7b85e9#%F0%9F%87%B3%F0%9F%87%B4%20%F0%9F%94%B5%20@Tiger.Vpn%20
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080?type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%9F%A2%20@TigerVpnChannel%20%F0%9F%9F%A2
 
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@no.cache-4d8a.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=no.cache-4d8a.com&pbk=7wLv5M4GZGhqMAGVj9zdHyW-RrSRdrYAu1Aaqa8N1nY&sid=9d84de9d9f7b85e9#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel%20
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080?type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&fp=chrome&sni=www.ignitelimit.com&alpn=h3,h2,http/1.1#%F0%9F%87%AB%F0%9F%87%B7%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpn%20
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
-
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&fp=chrome&sni=www.ignitelimit.com&alpn=h3,h2,http/1.1#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080?type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%94%B5%20@Tiger.Vpn%20%20
