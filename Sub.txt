@@ -62,6 +62,10 @@ vless://1f6531a1-a6eb-4274-9f51-4a0899456fcf@195.254.165.243:443?encryption=none
 trojan://humanity@172.64.152.23:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&fp=chrome&sni=www.gossipglove.com#%F0%9F%8C%90%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel%20
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel9.nanaweb.ir:1080?encryption=none&type=tcp&headerType=http&host=play.google.com&security=none#%F0%9F%87%A9%F0%9F%87%AA%20%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpn%20
 vless://f10b331d-f583-4990-beb9-9199c501150c@185.243.48.12:443?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%94%B5%20@Tiger.Vpn%20
+trojan://humanity@104.16.174.117:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%9F%A2%20@TigerVpnChannel%20
+vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.211:448?encryption=none&type=tcp&headerType=none&security=reality&sni=www.samsung.com&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&sid=113241ad01e99a2d#%F0%9F%87%B3%F0%9F%87%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpnChannel%20%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20%F0%9F%86%94%20@TigerVpn%20
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&type=ws&host=shegeftihaaa.net&path=/rsedgws&security=tls&sni=shegeftihaaa.net#%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%94%B5%20@Tiger.Vpn%20
 
 
 .... 2 ....
